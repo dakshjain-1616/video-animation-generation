@@ -1,0 +1,18 @@
+node_modules/
+.venv/
+out/
+.tmp/
+.pytest_cache/
+.tsconfig.*.json
+data/
+public/audio/
+*.log
+.env
+.DS_Store
+__pycache__/
+*.pyc
+*.egg-info/
+public/generated/
+src/generated/
+# Local screen capture used as a development reference, not source code.
+/Screen Recording 2026-10-21 at 11.56.39 AM.mov
